@@ -38,10 +38,8 @@ It delivers real-time insights into workforce demographics, promotion pipelines,
 ## 📸 Dashboard Screenshots
 
 ![Executive Overview](Screenshots/Executive_Overview.png)
-
-![Promotion & Retrenchment List](Screenshots/Promotion_Retrenchment.png)
-
-![Department & Role Analysis](Screenshots/Department_Analysis.png)
+![Promotion & Retrenchment](Screenshots/Promotion_Retrenchment.png)
+![Department Analysis](Screenshots/Department_Analysis.png)
 
 ---
 
@@ -60,31 +58,25 @@ It delivers real-time insights into workforce demographics, promotion pipelines,
 
 ```bash
 HR-INSIGHTS-PRO-Intelligent-Workforce-Analytics-Dashboard/
-├── HR Insights Pro.pbix                    # Main Power BI Dashboard
+├── HR Insights Pro.pbix
 ├── Data/
-│   ├── HR Analytics Data.csv               # Main HR dataset
-│   ├── HR Employee Data.csv                # Second main dataset
-│   └── Clustered HR Data/                  # Supporting files
-│       ├── promotion.csv
-│       └── retrenchment.csv
+│   ├── HR Analytics Data.csv
+│   ├── HR Employee Data.csv
+│   └── Clustered HR Data/
 ├── Documentation/
 │   └── HR Insight Pro Presentation.pdf
 ├── Screenshots/
-│   ├── Executive_Overview.png
-│   ├── Promotion_Retrenchment.png
-│   └── Department_Analysis.png
-├── README.md
-└── .gitignore
+└── README.md
 
 🚀 How to Use
 
 Open HR Insights Pro.pbix using Power BI Desktop
-Explore the interactive reports and visuals
+Explore the interactive dashboard
 
 
 👤 Author
 Boniface Anuforo
 Data Analyst
 
-GitHub: https://github.com/bcanuforo/HR-INSIGHTS-PRO-Intelligent-Workforce-Analytics-Dashboard)
+GitHub: https://github.com/bcanuforo/HR-INSIGHTS-PRO-Intelligent-Workforce-Analytics-Dashboard
 LinkedIn: www.linkedin.com/in/boniface-anuforo-34b935219
